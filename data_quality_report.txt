@@ -1,0 +1,8 @@
+==================================================
+DATA QUALITY REPORT
+==================================================
+Customers processed: 26 \u2192 20
+Products processed: 20 \u2192 20
+Sales processed: 41 \u2192 27 (skipped: 8)
+==================================================
+ETL Completed Successfully
